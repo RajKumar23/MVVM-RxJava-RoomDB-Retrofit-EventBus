@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LatestTechExample</string>
+    <string name="api_hit_key">APIHit</string>
+    <string name="albums_api">albums_api</string>
+    <string name="some_thing_wrong">Something went wrong!</string>
+    <string name="success">API hit Success</string>
+</resources>
